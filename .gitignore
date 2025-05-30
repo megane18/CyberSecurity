@@ -1,0 +1,5 @@
+note.txt
+.env
+.*env
+
+outlook_email_counter.py
