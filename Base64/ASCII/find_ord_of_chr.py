@@ -1,3 +1,4 @@
+
 def ascii_find(s):
 
     result = []
@@ -6,5 +7,4 @@ def ascii_find(s):
     return result
 
 # s=['M', 'e', 'g', 'a', 'n', 'e']
-s='Megane'
-print(''.join(ascii_find(s)))
+# print(' '.join(ascii_find(s)))

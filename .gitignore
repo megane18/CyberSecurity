@@ -1,6 +1,5 @@
 note.txt
-.env
-.*env
+*.env
 
 outlook_email_counter.py
 practice/
